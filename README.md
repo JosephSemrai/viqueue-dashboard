@@ -1,2 +1,2 @@
 # viqueue-dashboard
-Created with CodeSandbox
+Quick frontend for AngelHacks Project
